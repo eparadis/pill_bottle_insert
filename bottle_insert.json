@@ -8,6 +8,24 @@
             "pill_bottle_upper_ID": "30.800000000000001",
             "pockets": "10",
             "subdividers": "true"
+        },
+        "daily pills": {
+            "handle_height": "12",
+            "insert_height": "77",
+            "pill_bottle_lower_ID": "29.100000000000001",
+            "pill_bottle_upper_ID": "30.800000000000001",
+            "pockets": "7",
+            "subdividers": "false"
+        },
+        "ink refills in large bottle": {
+            "handle_height": "0",
+            "insert_height": "82.9",
+            "pill_bottle_lower_ID": "45.2",
+            "pill_bottle_upper_ID": "46.5",
+            "pockets": "4",
+            "subdividers": "false",
+            "lengths": [ 82.5, 51, 58.5, 68],
+            "labels": ["", "", "", ""]
         }
     }
 }
