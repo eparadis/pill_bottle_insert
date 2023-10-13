@@ -78,7 +78,7 @@ module labels(pockets=6, pocket_labels=["1.0", "2.0", "3.0", "4.0", "5.0", "6.0"
   }
 }
 
-module no_sides_case() {
+module bottle_insert() {
   difference() {
     union() {
       difference() {
@@ -103,5 +103,5 @@ module no_sides_case() {
 }
 
 
-no_sides_case();
+bottle_insert();
 
