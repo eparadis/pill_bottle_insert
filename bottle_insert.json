@@ -1,0 +1,13 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "handle_height": "12",
+            "insert_height": "77",
+            "pill_bottle_lower_ID": "29.100000000000001",
+            "pill_bottle_upper_ID": "30.800000000000001",
+            "pockets": "4",
+            "subdividers": "true"
+        }
+    }
+}

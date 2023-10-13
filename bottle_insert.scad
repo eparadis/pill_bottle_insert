@@ -1,4 +1,4 @@
-// an insert for a medicine bottle to hold the collets
+// an insert for a medicine bottle to divide it into sections
 
 include <BOSL2/std.scad>
 
